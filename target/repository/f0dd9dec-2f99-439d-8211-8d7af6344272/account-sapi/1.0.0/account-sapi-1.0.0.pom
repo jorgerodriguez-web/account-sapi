@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<project xmlns="http://maven.apache.org/POM/4.0.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 http://maven.apache.org/maven-v4_0_0.xsd">
+  <modelVersion>4.0.0</modelVersion>
+  <groupId>f0dd9dec-2f99-439d-8211-8d7af6344272</groupId>
+  <artifactId>account-sapi</artifactId>
+  <version>1.0.0</version>
+  <name>account-sapi</name>
+  <properties>
+    <classifier>oas</classifier>
+    <main>account-sapi.json</main>
+    <status>published</status>
+    <originalFormatVersion>2.0</originalFormatVersion>
+    <apiVersion>v1</apiVersion>
+    <projectId>f4141aab-efaf-459d-8b4d-e089e3670273</projectId>
+    <branchId>master</branchId>
+    <commitId>cc21caa29e64d793a8f71f83d53640234cc10fa2</commitId>
+    <keywords/>
+    <type>rest-api</type>
+    <mainFile>account-sapi.json</mainFile>
+  </properties>
+  <repositories>
+    <repository>
+      <id>anypoint-exchange</id>
+      <url>https://maven.anypoint.mulesoft.com/api/v3/maven</url>
+    </repository>
+  </repositories>
+</project>
